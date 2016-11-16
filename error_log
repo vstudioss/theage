@@ -1,0 +1,2 @@
+[02-Dec-2015 21:57:04 UTC] PHP Fatal error:  Cannot redeclare mm_load_updater() (previously declared in /home2/chrisv/public_html/theageofiknow.com/wp-content/plugins/mojo-marketplace-vps/mojo-marketplace.php:41) in /home2/chrisv/public_html/theageofiknow.com/wp-content/plugins/mojo-marketplace-hg/mojo-marketplace.php on line 56
+[11-Sep-2016 14:43:20 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home2/chrisv/public_html/theageofiknow.com/wp-includes/class-wp-xmlrpc-server.php on line 596
